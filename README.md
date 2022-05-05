@@ -23,8 +23,8 @@ para realizar el insertado de datos se manda los Keys:Value desde el query param
 ```
 http://localhost:8080/insert
 ```
-
 ejemplo:
+<img src="/imgInfo/ejemploInsert.png" alt="Ejemplo Insert"/>
 
 
 #Leer:
@@ -33,21 +33,20 @@ para realizar el leer de datos se manda:
 http://localhost:8080/read
 ```
 ejemplo:
-<img src="Tarea-voxy/imgInfo/ejemploInsert.png" alt="Ejemplo Insert"/>
+<img src="/imgInfo/ejemploRead.png" alt="Ejemplo Read"/>
 
 #Modificar:
 para realizar el modificar se necesita copiar un ID que arroja el Leer y pasarlo con datos se manda los Keys:Value desde el query params	
 ```
 http://localhost:8080/update
 ```
-
 ejemplo:
-
+<img src="/imgInfo/ejemploUpdate.png" alt="Ejemplo Update"/>
 
 #Eliminar:
 para realizar el modificar se necesita copiar un ID que arroja el Leer y se manda los Keys:Value desde el query params
 ```
 http://localhost:8080/delete
 ```
-
 ejemplo:
+<img src="/imgInfo/ejemploDelete.png" alt="Ejemplo Delete"/>
