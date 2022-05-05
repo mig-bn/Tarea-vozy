@@ -18,7 +18,7 @@ go run main.go
 ```
 luego desde una herramienta para el testing de APIRest puede ser Postman. Con a esta herramienta testearemos API REST:
 
-## insertar:
+## Insertar:
 para realizar el insertado de datos se manda los Keys:Value desde el query params	
 ```
 http://localhost:8080/insert
