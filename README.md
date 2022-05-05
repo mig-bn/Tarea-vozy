@@ -26,14 +26,14 @@ http://localhost:8080/insert
 
 ejemplo:
 
+
 #Leer:
 para realizar el leer de datos se manda:
 ```
 http://localhost:8080/read
 ```
-
 ejemplo:
-
+<img src="/imgInfo/ejemploInsert.png" alt="Ejemplo Insert"/>
 
 #Modificar:
 para realizar el modificar se necesita copiar un ID que arroja el Leer y pasarlo con datos se manda los Keys:Value desde el query params	
