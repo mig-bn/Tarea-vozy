@@ -26,16 +26,13 @@ http://localhost:8080/insert
 ejemplo:
 [![ejemplo-Insert.png](https://i.postimg.cc/j2ST1kXx/ejemplo-Insert.png)](https://postimg.cc/ph43hC44)
 
-<img src="/imgInfo/ejemploInsert.png" alt="Ejemplo Insert"/>
-
-
 #Leer:
 para realizar el leer de datos se manda:
 ```
 http://localhost:8080/read
 ```
 ejemplo:
-<img src="/imgInfo/ejemploRead.png" alt="Ejemplo Read"/>
+[![ejemplo-Read.png](https://i.postimg.cc/SQf7713X/ejemplo-Read.png)](https://postimg.cc/grrZGsYd)
 
 #Modificar:
 para realizar el modificar se necesita copiar un ID que arroja el Leer y pasarlo con datos se manda los Keys:Value desde el query params	
@@ -43,7 +40,7 @@ para realizar el modificar se necesita copiar un ID que arroja el Leer y pasarlo
 http://localhost:8080/update
 ```
 ejemplo:
-<img src="/imgInfo/ejemploUpdate.png" alt="Ejemplo Update"/>
+[![ejemplo-Update.png](https://i.postimg.cc/wM414NDr/ejemplo-Update.png)](https://postimg.cc/kR8MBB1N)
 
 #Eliminar:
 para realizar el modificar se necesita copiar un ID que arroja el Leer y se manda los Keys:Value desde el query params
@@ -51,4 +48,4 @@ para realizar el modificar se necesita copiar un ID que arroja el Leer y se mand
 http://localhost:8080/delete
 ```
 ejemplo:
-<img src="/imgInfo/ejemploDelete.png" alt="Ejemplo Delete"/>
+[![ejemplo-Delete.png](https://i.postimg.cc/cH91dS6g/ejemplo-Delete.png)](https://postimg.cc/bDnfR4xp)
