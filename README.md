@@ -24,6 +24,8 @@ para realizar el insertado de datos se manda los Keys:Value desde el query param
 http://localhost:8080/insert
 ```
 ejemplo:
+[![ejemplo-Insert.png](https://i.postimg.cc/j2ST1kXx/ejemplo-Insert.png)](https://postimg.cc/ph43hC44)
+
 <img src="/imgInfo/ejemploInsert.png" alt="Ejemplo Insert"/>
 
 
